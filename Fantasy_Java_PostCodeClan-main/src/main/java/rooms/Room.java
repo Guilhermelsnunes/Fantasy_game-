@@ -29,4 +29,5 @@ public abstract class Room {
         Random random = new Random();
         return random.nextInt(max);
     }
+
 }
